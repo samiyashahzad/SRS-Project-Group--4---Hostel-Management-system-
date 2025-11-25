@@ -15,6 +15,10 @@ Our whole work was collaborative Our team leader suggested some ideas also by th
 **Next steps:**
 Begin Data flow diagram 
 Begin Use Case diagrams 
+**completed next steps**
+uploaded dfd and usecase diagram
+**Next steps **
+working on formal document 
 
 
 
