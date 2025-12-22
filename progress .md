@@ -21,6 +21,11 @@ uploaded dfd and usecase diagram
 working on formal document 
 
 
+**working next steps**
+working on coding 
+analayzing the logic 
+
+
 
 
  
